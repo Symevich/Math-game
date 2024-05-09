@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+body {
+    background: rgb(8,0,151);
+}
+
+.number {
+    width: 60px;
+    height: 60px;
+    margin: 6px;
+    border: 0px;
+    border-radius: 14px;
+    background-color: aqua;
+}
+
+.screen {
+    width: 214px;
+    height: 60px;
+    margin: 6px;
+    border: 5px solid black;
+    text-align: center;
+    padding: 0px;
+    border-radius: 14px;
+    color: aliceblue;
+}
+
+#screen {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+.main {
+    background-color: rgb(12, 0, 242);
+    width: 236px;
+    margin: 6px;
+    padding: 6px;
+    border-radius: 14px;
+}
